@@ -1,0 +1,11 @@
+//KeyBinds
+//Forward
+W
+//Back
+S
+//Left
+A
+//Right
+D
+//Console
+~
