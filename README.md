@@ -8,4 +8,4 @@ Code: C++
 Glfw,
 Glad
 
-Librarys not included ensure glfw and glad are on hand
+Libraries not included ensure glfw and glad are on hand
