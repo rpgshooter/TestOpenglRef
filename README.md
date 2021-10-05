@@ -3,7 +3,7 @@ A cleaned version of glfw for referance
 Wsad control, simple comments, passing build    
 Code: C++
 
-# Included,
+# Libraries used
 
 Glfw,
 Glad
