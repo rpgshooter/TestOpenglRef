@@ -6,6 +6,7 @@ Code: C++
 # Libraries used
 
 Glfw,
-Glad
+Glad,
+Glew
 
 Libraries not included ensure glfw and glad are on hand
